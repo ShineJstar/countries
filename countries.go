@@ -2961,7 +2961,7 @@ func (c CountryCode) Currency() CurrencyCode { //nolint:gocyclo
 	case CZE:
 		return CurrencyCZK
 	case CHL:
-		return CurrencyCLF
+		return CurrencyCLP
 	case CHE:
 		return CurrencyCHF
 	case SWE:
